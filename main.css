@@ -36,7 +36,7 @@ p{
 }
 img{
 height: 200px;
-width: 620px;
+width: 498px;
 }
 #image{
   float:left;
@@ -58,12 +58,14 @@ h4{
   float:right;
   text-align: center;
 }
+
 div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
     width: 180px;
 }
+
 
 div.gallery:hover {
     border: 1px solid #777;
