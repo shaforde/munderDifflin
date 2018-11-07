@@ -75,11 +75,13 @@ h3{
     text-align:center;
     color: white;
     text-shadow: 2px 2px #000;
+    font-size: 1.25em;
 }
 h4{
     text-align:center;
     color: white;
      text-shadow: 2px 2px #000;
+     font-size: 1.25em;
 }
 
 .pics{
@@ -132,6 +134,7 @@ h5{
     text-align:center;
     color: white;
     text-shadow: 2px 2px #000;
+    font-size: 1.25em;
 }
 div. p{
   float: left;
