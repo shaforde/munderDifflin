@@ -1,5 +1,6 @@
+header{
 
-
+}
 body{
   background: url("https://image.freepik.com/free-photo/multi-color-powder-explosion-on-black-background_36326-498.jpg");
 background-size: cover;
@@ -108,7 +109,7 @@ div.gallery img{
 
 
 
-.button:hover{
+button:hover{
   cursor:pointer;
 }
 div.gallery img {
@@ -122,10 +123,10 @@ div.desc {
     text-align: center;
     background-color: black;
 }
-div.contact{
+footer{
   clear:both;
 }
-div.contact p{
+section{
   color:white;
   text-align: right;
   background-color: black;
@@ -143,4 +144,5 @@ div. p{
 }
 #form{
 text-align:right;
+color: white;
 }
